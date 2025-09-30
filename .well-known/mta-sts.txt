@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: mxa.global.inbound.cf-emailsecurity.net
-mx: mxb.global.inbound.cf-emailsecurity.net
+mx: smtp.google.com
 max_age: 604800
